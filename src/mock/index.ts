@@ -6,7 +6,7 @@ export const defaultUser: LocalGithubUser = {
   name: 'Michael Veselov',
   company: 'Reprosystems Ltd.',
   blog: 'https://mve-portfolio.vercel.app/',
-  location: 'St. Petersburg, Russia',
+  location: 'Leipzig, Germany',
   bio: 'Frontend developer',
   twitter: '',
   repos: 65,
